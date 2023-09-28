@@ -11,11 +11,11 @@
 | domain complexity | domenekompleksitet | |
 | Dunbar’s number | Dunbars tall | |
 | enabling team | muliggjøringsteam | |
-| extraneous cognitive load | charge cognitive extrinsèque | |
+| extraneous cognitive load | miljøets kognitive last | |
 | facilitating mode | fasiliteringsmodus | |
 | flow of change | endringsflyt | |
-| fracture plane | @todo  | |
-| germane cognitive load | @todo | |
+| fracture plane | bruddplan / grenseområde / grensegang  | |
+| germane cognitive load | domenets/fagdomenets kognitive last  | |
 | intrinsic cognitive load | iboende kognitiv last | |
 | joined-at-the-database monolith | monolitt som er sammenkoblet ved database | |
 | monolithic build | monolitisk bygg | |
