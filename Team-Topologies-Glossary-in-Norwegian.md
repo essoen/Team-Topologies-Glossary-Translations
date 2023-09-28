@@ -1,9 +1,5 @@
-
-
 | Term in English | Term in Norwegian | Usage Example |
-
 | --------------- | --------------- | ------------- |
-
 | API (application programming interface) | API (programvaregrensesnitt) | |
 | application monolith | applikasjonsmonolitt | |
 | bounded context | avgrenset kontekst | |
@@ -18,8 +14,8 @@
 | extraneous cognitive load | charge cognitive extrinsèque | |
 | facilitating mode | fasiliteringsmodus | |
 | flow of change | endringsflyt | |
-| fracture plane |  | |
-| germane cognitive load | charge cognitive essentielle | |
+| fracture plane | @todo  | |
+| germane cognitive load | @todo | |
 | intrinsic cognitive load | iboende kognitiv last | |
 | joined-at-the-database monolith | monolitt som er sammenkoblet ved database | |
 | monolithic build | monolitisk bygg | |
